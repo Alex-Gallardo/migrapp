@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/migrapp/static/css/main.1c26b709.chunk.css",
+    "main.js": "/migrapp/static/js/main.86bb9418.chunk.js",
+    "main.js.map": "/migrapp/static/js/main.86bb9418.chunk.js.map",
+    "runtime-main.js": "/migrapp/static/js/runtime-main.04681581.js",
+    "runtime-main.js.map": "/migrapp/static/js/runtime-main.04681581.js.map",
+    "static/js/2.cfd8a547.chunk.js": "/migrapp/static/js/2.cfd8a547.chunk.js",
+    "static/js/2.cfd8a547.chunk.js.map": "/migrapp/static/js/2.cfd8a547.chunk.js.map",
+    "index.html": "/migrapp/index.html",
+    "precache-manifest.f953f23e1664df8ad5bdbec08172fcd8.js": "/migrapp/precache-manifest.f953f23e1664df8ad5bdbec08172fcd8.js",
+    "service-worker.js": "/migrapp/service-worker.js",
+    "static/css/main.1c26b709.chunk.css.map": "/migrapp/static/css/main.1c26b709.chunk.css.map",
+    "static/js/2.cfd8a547.chunk.js.LICENSE.txt": "/migrapp/static/js/2.cfd8a547.chunk.js.LICENSE.txt",
+    "static/media/2480748.jpg": "/migrapp/static/media/2480748.8d987733.jpg",
+    "static/media/chico.svg": "/migrapp/static/media/chico.8547ceae.svg",
+    "static/media/menu.svg": "/migrapp/static/media/menu.f3883d0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04681581.js",
+    "static/js/2.cfd8a547.chunk.js",
+    "static/css/main.1c26b709.chunk.css",
+    "static/js/main.86bb9418.chunk.js"
+  ]
+}
