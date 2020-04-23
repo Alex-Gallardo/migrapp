@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../css/Home.css'
 import { Link } from 'react-router-dom';
+import Image from "../img/2480748.jpg";
 
 class Home extends Component {
     // state = {  }
@@ -8,7 +9,7 @@ class Home extends Component {
         return (
             <div className="fondo-b">
                 <div className="container cont-">
-                    <img src="/img/2480748.jpg" width="300px"/>
+                    <img src={Image} width="300px" alt="inicio"/>
                     <h2 className="title- ">Bienvenido a Migraap</h2>
                     <div className="min-cont">
                         <p className="title- lorem">Viaja a donde quieras de una manera Natural, con Migraap que conecta con la naturaleza...</p>

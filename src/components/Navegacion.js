@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import '../css/Navegacion.css'
 import { Link } from 'react-router-dom';
+import Menu from "../icons/menu.svg";
+import Chico from '../icons/chico.svg'
 
 class Navegacion extends Component {
-    state = {  }
-    render() { 
-        return ( 
+    render() {
+        return (
             <div className='container cont'>
-                <img src="/icons/menu.svg" width="30px"/>
-                <Link to='/perfil'><img src="/icons/chico.svg" width="35px"/></Link>
+                <img src={Menu} alt="Menu" width="30px" />
+                <Link to='/perfil'><img src={Chico} width="35px" alt="Chico" /></Link>
             </div>
-         );
+        );
     }
 }
- 
+
 export default Navegacion;

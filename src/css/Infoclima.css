@@ -55,9 +55,46 @@
     min-height: 100px !important;
     max-height: 100px ;
     min-width: 100px !important;
-    margin: 0px 15px    ;
-    background-color: blueviolet;
+    margin: 0px 15px;
     border-radius: 25px;
+}
+
+.dcTropical1{
+    background-image: url('https://www.caracteristicas.co/wp-content/uploads/2016/07/clima-tropical-playa-e1559929568421.jpg');
+}
+.dcTropical2{
+    background-image: url('https://previews.123rf.com/images/bluelight/bluelight1212/bluelight121200045/16940535-vegetaci%C3%B3n-de-clima-tropical.jpg');
+}
+.dcTropical3{
+    background-image: url('https://www.gtush.com/wp-content/uploads/2019/09/paises-con-clima-tropical-e1569267865715.jpg');
+}
+.dcTropical4{
+    background-image: url('https://www.meteorologiaenred.com/wp-content/uploads/2016/06/amazonas-1024x680.jpg');
+}
+.dcTropical5{
+    background-image: url('https://previews.123rf.com/images/bluelight/bluelight1212/bluelight121200045/16940535-vegetaci%C3%B3n-de-clima-tropical.jpg');
+}
+.dcTropical6{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjAp-TrTV-n4pW47xeYWsW_qYXpfHtUDyOlQLIuOP3FKl4Urc&usqp=CAU');
+}
+
+.dcOceanico1{
+    background-image: url('https://www.caracteristicas.co/wp-content/uploads/2016/07/turquia-e1559978315409.jpg');
+}
+.dcOceanico2{
+    background-image: url('https://www.viajejet.com/wp-content/viajes/hawai-y-sus-diferentes-tipos-de-clima.jpg');
+}
+.dcOceanico3{
+    background-image: url('https://energiasolarhoy.com/wp-content/uploads/2018/08/climaoceanico-753x396.jpg');
+}
+.dcOceanico4{
+    background-image: url('https://www.gtush.com/wp-content/uploads/2019/09/clima-oceanico-ciudad.jpg');
+}
+.dcOceanico5{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-MZ19DqvyYKkP7x-F7SET4HfcCn7iqk2nH3PgNyOZD2Ku3ukF&usqp=CAU');
+}
+.dcOceanico6{
+    background-image: url('https://lh3.googleusercontent.com/proxy/iZu5U5gJVOAUZjx9lZsDmA85rhk1OdoX9jKNz5xc8MBE8h6AcDOxr68FYSxKHWaNRmB_xVKM9WyhXjLSJjUweqmWnp6KBkzoYLeCiMlDmOw40Mme-_m1-a69GhDIHWlpqZobcb_oAwZq2OPDKq_6IGW2IMClEzTImZjnfeYpDkyql73h-fht6Hi_Dwrk3jp7aW7dDPBGZjvS9gOBUyp0HNLefYDosIFixrBSAZ72qppCH8L1ToXaIWKfREkFo2Q');
 }
 
 .c-info-data{

@@ -24,7 +24,7 @@ class Router extends Component {
 
     render() {
         return (
-            <BrowserRouter>
+            <BrowserRouter basename="/migrapp/">
                 <Switch>
                     <Route exact path='/' component={Home}></Route>
                     <Route exact path='/ambientes' component={Ambientes}></Route>

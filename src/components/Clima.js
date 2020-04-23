@@ -11,8 +11,7 @@ const Clima = (props) => {
                         <h3 style={{ color: '#ffffff' }}>{props.data.title}</h3>
                     </div>
                     <div>
-                        <h6 style={{ color: '#3E3E3E' }}>cutomers clima</h6>
-
+                        <h6 style={{ color: '#3E3E3E' }}>clima optimizado</h6>
                     </div>
                 </div>
                 <div className="circulo-c-c c1-c" style={{ background: props.data.backcolor }}>

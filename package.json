@@ -1,6 +1,7 @@
 {
   "name": "migrapp",
   "version": "0.1.0",
+  "homepage": "http://alex-gallardo.github.io/migrapp",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -12,6 +13,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -32,6 +35,8 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "github-pages": "^3.0.2",
     "react-router-dom": "^5.1.2"
   }
 }
